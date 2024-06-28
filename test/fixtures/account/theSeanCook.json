@@ -88,11 +88,11 @@
             "id": "866269c983527d5a",
             "name": "Ashbury Heights",
             "place_type": "neighborhood",
-            "url": "http://api.twitter.com/1/geo/id/866269c983527d5a.json"
+            "url": "http://api.x.com/1/geo/id/866269c983527d5a.json"
         },
         "retweet_count": 0,
         "retweeted": false,
-        "source": "<a href=\"//twitter.com%5C%22\" rel=\"nofollow\">Twitter for  iPhone</a>",
+        "source": "<a href=\"//x.com%5C%22\" rel=\"nofollow\">Twitter for  iPhone</a>",
         "text": "@messl congrats! So happy for all 3 of you.",
         "truncated": false
     },

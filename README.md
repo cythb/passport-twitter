@@ -1,6 +1,6 @@
 # passport-twitter
 
-[Passport](http://passportjs.org/) strategy for authenticating with [Twitter](http://twitter.com/)
+[Passport](http://passportjs.org/) strategy for authenticating with [Twitter](http://x.com/)
 using the OAuth 1.0a API.
 
 This module lets you authenticate using Twitter in your Node.js applications.
@@ -42,7 +42,7 @@ $ npm install passport-twitter
 
 Before using `passport-twitter`, you must register an application with Twitter.
 If you have not already done so, a new application can be created at
-[Twitter Application Management](https://apps.twitter.com/).  Your application
+[Twitter Application Management](https://apps.x.com/).  Your application
 will be issued a consumer key (API Key) and consumer secret (API Secret), which
 need to be provided to the strategy.  You will also need to configure a callback
 URL which matches the route in your application.
